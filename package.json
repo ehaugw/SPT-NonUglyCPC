@@ -1,13 +1,12 @@
 {
-    "name": "Blank",
-    "version": "2.0.0",
+    "name": "non-ugly-cpc",
+    "version": "1.0.0",
     "main": "src/mod.js",
     "license": "CC-NY-ND-NC 4.0",
-    "author": "GrooveyPenguinX",
+    "author": "ehaugw",
     "isBundleMod": true,
-    "sptVersion": "~3.9.x",
+    "sptVersion": "~3.10.x",
     "incompatibilities":[
-        "WTT-Handguards_Galore"
     ],
     "scripts": {
         "setup": "npm i",
