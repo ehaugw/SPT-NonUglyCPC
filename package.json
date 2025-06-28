@@ -5,7 +5,7 @@
     "license": "CC-NY-ND-NC 4.0",
     "author": "ehaugw",
     "isBundleMod": true,
-    "sptVersion": "~3.10.x",
+    "sptVersion": "~3.11.x",
     "incompatibilities":[
     ],
     "scripts": {
