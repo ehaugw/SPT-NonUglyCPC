@@ -1,7 +1,23 @@
 {
     "manifest": [
         {
-            "key": "assets/content/items/equipment/rig_boss_blackknight/item_equipment_rig_boss_blackknight.bundle",
+            "key": "cpc_no_pads.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "maskfix.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "harris_adapter.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
