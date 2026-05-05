@@ -5,6 +5,10 @@ dependencies =
 
 unity-from:
 	cp /mnt/c/Users/eivind/MYHOME/Documents/SPTModding/SDK/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/harris_adapter.bundle bundles
+	cp /mnt/c/Users/eivind/MYHOME/Documents/SPTModding/SDK/EscapeFromTarkov-SDK/AssetBundles/StandaloneWindows/knight_mask_skull_only.bundle bundles
+
+unity-to:
+	cp /mnt/c/Users/eivind/MYHOME/Documents/SPTModding/NonUglyCpc/meshes/knight_mask_skull_only.fbx /mnt/c/Users/eivind/MYHOME/Documents/SPTModding/SDK/EscapeFromTarkov-SDK/Assets/Ehaugw/Equipment/KnightMaskSkullOnly/Meshes/
 
 assemble: unity-from
 	rm -f -r export

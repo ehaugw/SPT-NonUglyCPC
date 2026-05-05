@@ -1,6 +1,14 @@
 {
     "manifest": [
         {
+            "key": "knight_mask_skull_only.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "cpc_no_pads.bundle",
             "dependencyKeys": [
                 "shaders",
